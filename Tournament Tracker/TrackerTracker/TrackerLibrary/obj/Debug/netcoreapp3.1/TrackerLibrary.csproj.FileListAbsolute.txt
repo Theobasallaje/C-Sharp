@@ -1,0 +1,3 @@
+C:\Users\Theob\Documents\dev\.NET\Tournament Tracker\TrackerTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\Theob\Documents\dev\.NET\Tournament Tracker\TrackerTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\Theob\Documents\dev\.NET\Tournament Tracker\TrackerTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfo.cs
